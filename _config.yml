@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: InSciM Project - Modelling Uncertinaty in Science
+title: "InSciM Project - Modelling Uncertinaty in Science"
 email: iana.atanassova@univ-fcomte.fr
-description: >- InSciM - Modelling Uncertinaty In Science - ANR Project
+description: "InSciM - Modelling Uncertinaty In Science - ANR Project"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iana-atanassova.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  iana-atanassova
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
